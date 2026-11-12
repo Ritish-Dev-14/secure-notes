@@ -1,0 +1,4 @@
+node_modules/
+.env
+powershell.cmd
+cmd_log.txt
